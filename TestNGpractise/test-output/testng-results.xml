@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-25T23:21:40 CDT" name="Automation" finished-at="2024-03-25T23:21:45 CDT" duration-ms="5545">
+    <groups>
+    </groups>
+    <test started-at="2024-03-25T23:21:40 CDT" name="Login" finished-at="2024-03-25T23:21:45 CDT" duration-ms="5545">
+      <class name="com.practise.testNG.TestNGannotations">
+        <test-method is-config="true" signature="suite()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="suite" finished-at="2024-03-25T23:21:40 CDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="beforetest" finished-at="2024-03-25T23:21:40 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="beforemethod" finished-at="2024-03-25T23:21:40 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="firsttest()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="firsttest" finished-at="2024-03-25T23:21:40 CDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="aftermethod" finished-at="2024-03-25T23:21:40 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="beforemethod" finished-at="2024-03-25T23:21:40 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test2(java.lang.String)[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="test2" finished-at="2024-03-25T23:21:40 CDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[darshanarn@naukri.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:40 CDT" name="aftermethod" finished-at="2024-03-25T23:21:40 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:45 CDT" name="aftertest" finished-at="2024-03-25T23:21:45 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:com.practise.testNG.TestNGannotations@47eaca72]" started-at="2024-03-25T23:21:45 CDT" name="aftersuite" finished-at="2024-03-25T23:21:45 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.practise.testNG.TestNGannotations -->
+      <class name="com.practise.testNG.testNGpractise">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.practise.testNG.testNGpractise@77888435]" started-at="2024-03-25T23:21:40 CDT" name="beforemethod" finished-at="2024-03-25T23:21:42 CDT" duration-ms="2717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="withoutusername()[pri:1, instance:com.practise.testNG.testNGpractise@77888435]" started-at="2024-03-25T23:21:42 CDT" name="withoutusername" finished-at="2024-03-25T23:21:42 CDT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withoutusername -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.practise.testNG.testNGpractise@77888435]" started-at="2024-03-25T23:21:42 CDT" name="aftermethod" finished-at="2024-03-25T23:21:43 CDT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.practise.testNG.testNGpractise@77888435]" started-at="2024-03-25T23:21:43 CDT" name="beforemethod" finished-at="2024-03-25T23:21:45 CDT" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="login()[pri:2, instance:com.practise.testNG.testNGpractise@77888435]" started-at="2024-03-25T23:21:45 CDT" name="login" finished-at="2024-03-25T23:21:45 CDT" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.practise.testNG.testNGpractise@77888435]" started-at="2024-03-25T23:21:45 CDT" name="aftermethod" finished-at="2024-03-25T23:21:45 CDT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.practise.testNG.testNGpractise -->
+    </test> <!-- Login -->
+  </suite> <!-- Automation -->
+</testng-results>

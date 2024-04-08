@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation">
+<parameter name="username" value="darshanarn@naukri.com"></parameter>
+<test name="Login">
+
+<classes>
+
+<class name="com.practise.testNG.TestNGannotations"></class>
+<class name="com.practise.testNG.testNGpractise"></class>
+
+</classes>
+
+
+</test>
+
+
+
+</suite>
